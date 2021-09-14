@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "946192327881",
+    "project_id": "textrecognition-8b7ee",
+    "storage_bucket": "textrecognition-8b7ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946192327881:android:8808f90c3f7459bc395918",
+        "android_client_info": {
+          "package_name": "com.mohit.textRecognition"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "946192327881-6llsrkv9sgcegfo7gkfapbsn9ocu7tqd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLmcS1w4xaKIafiGD5__BwzyM6IRBO8oc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "946192327881-6llsrkv9sgcegfo7gkfapbsn9ocu7tqd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
